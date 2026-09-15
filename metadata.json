@@ -1,0 +1,6 @@
+{
+  "name": "Risk Calculator & Trading Journal",
+  "description": "Perpetual futures risk calculator, position sizing tool, interactive trading journal, analytics and PDF report generator with offline IndexedDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
